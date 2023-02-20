@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\praka\OneDrive\Documents\VuGen\Scripts\WebHttpHtml2
+-IC:\Program Files (x86)\Micro Focus\Virtual User Generator\include
+-ec:\users\praka\onedrive\documents\vugen\scripts\webhttphtml2\\logfile.log
+c:\users\praka\onedrive\documents\vugen\scripts\webhttphtml2\\combined_WebHttpHtml2.c
+c:\users\praka\onedrive\documents\vugen\scripts\webhttphtml2\\pre_cci.c

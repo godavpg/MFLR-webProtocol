@@ -1,0 +1,10 @@
+[t3]
+ContentType=DummyContentType
+StepName=
+Total=0
+RequestHeaderFile=t3_RequestHeader.txt
+ResponseHeaderFile=t3_ResponseHeader.txt
+RawStepEndTime=1676932488043
+RawStepName=
+RequestBodyFile=t3_RequestBody.txt
+RawStepStartTime=1676932488043
