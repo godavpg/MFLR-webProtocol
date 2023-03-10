@@ -1,0 +1,82 @@
+Virtual User Script started at: 3/10/2023 5:15:42 PM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2022.2.0 for Windows 11; build 697 (Oct 09 2022 02:21:32)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)  	[MsgId: MMSG-26988]
+Runtime Settings file: "D:\Testing-workshop\PerformanceEngineering\Performance_Scripts\webScripts\S001_Generate_Transaction_Name_Dynamically\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+transactionName.h(26): S001_Generate_Transaction_Name_Dynamically
+transactionName.h(65): current transaction Number: 0 
+transactionName.h(95): updated transaction number :  1
+transactionName.h(100): start transaction name : S001_Generate_Transaction_Name_Dynamically_T1_sample01 
+Action.c(3): Notify: Transaction "S001_Generate_Transaction_Name_Dynamically_T1_sample01" started.
+transactionName.h(65): current transaction Number: 1 
+transactionName.h(73): array : 1 
+array stored value : sample01
+transactionName.h(81): end temp transaction number 1
+transactionName.h(84): End transaction name :S001_Generate_Transaction_Name_Dynamically_T1_sample01
+Action.c(5): Notify: Transaction "S001_Generate_Transaction_Name_Dynamically_T1_sample01" ended with a "Pass" status (Duration: 0.0075).
+transactionName.h(65): current transaction Number: 1 
+transactionName.h(73): array : 1 
+array stored value : sample01
+transactionName.h(95): updated transaction number :  2
+transactionName.h(100): start transaction name : S001_Generate_Transaction_Name_Dynamically_T2_sample02 
+Action.c(7): Notify: Transaction "S001_Generate_Transaction_Name_Dynamically_T2_sample02" started.
+transactionName.h(65): current transaction Number: 2 
+transactionName.h(73): array : 1 
+array stored value : sample01
+transactionName.h(73): array : 2 
+array stored value : sample02
+transactionName.h(81): end temp transaction number 2
+transactionName.h(84): End transaction name :S001_Generate_Transaction_Name_Dynamically_T2_sample02
+Action.c(9): Notify: Transaction "S001_Generate_Transaction_Name_Dynamically_T2_sample02" ended with a "Pass" status (Duration: 0.0117).
+transactionName.h(65): current transaction Number: 2 
+transactionName.h(73): array : 1 
+array stored value : sample01
+transactionName.h(73): array : 2 
+array stored value : sample02
+transactionName.h(95): updated transaction number :  3
+transactionName.h(100): start transaction name : S001_Generate_Transaction_Name_Dynamically_T3_sample03 
+Action.c(11): Notify: Transaction "S001_Generate_Transaction_Name_Dynamically_T3_sample03" started.
+transactionName.h(65): current transaction Number: 3 
+transactionName.h(73): array : 1 
+array stored value : sample01
+transactionName.h(73): array : 2 
+array stored value : sample02
+transactionName.h(73): array : 3 
+array stored value : sample03
+transactionName.h(81): end temp transaction number 3
+transactionName.h(84): End transaction name :S001_Generate_Transaction_Name_Dynamically_T3_sample03
+Action.c(13): Notify: Transaction "S001_Generate_Transaction_Name_Dynamically_T3_sample03" ended with a "Pass" status (Duration: 0.0114).
+transactionName.h(65): current transaction Number: 3 
+transactionName.h(73): array : 1 
+array stored value : sample01
+transactionName.h(73): array : 2 
+array stored value : sample02
+transactionName.h(73): array : 3 
+array stored value : sample03
+transactionName.h(95): updated transaction number :  4
+transactionName.h(100): start transaction name : S001_Generate_Transaction_Name_Dynamically_T4_sample04 
+Action.c(15): Notify: Transaction "S001_Generate_Transaction_Name_Dynamically_T4_sample04" started.
+transactionName.h(65): current transaction Number: 4 
+transactionName.h(73): array : 1 
+array stored value : sample01
+transactionName.h(73): array : 2 
+array stored value : sample02
+transactionName.h(73): array : 3 
+array stored value : sample03
+transactionName.h(73): array : 4 
+array stored value : sample04
+transactionName.h(81): end temp transaction number 4
+transactionName.h(84): End transaction name :S001_Generate_Transaction_Name_Dynamically_T4_sample04
+Action.c(17): Notify: Transaction "S001_Generate_Transaction_Name_Dynamically_T4_sample04" ended with a "Pass" status (Duration: 0.0175).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

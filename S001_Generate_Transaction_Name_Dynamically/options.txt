@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\Testing-workshop\PerformanceEngineering\Performance_Scripts\webScripts\S001_Generate_Transaction_Name_Dynamically
+-IC:\Program Files (x86)\Micro Focus\Virtual User Generator\include
+-ed:\testing-workshop\performanceengineering\performance_scripts\webscripts\s001_generate_transaction_name_dynamically\\logfile.log
+d:\testing-workshop\performanceengineering\performance_scripts\webscripts\s001_generate_transaction_name_dynamically\\combined_S001_Generate_Transaction_Name_Dynamically.c
+d:\testing-workshop\performanceengineering\performance_scripts\webscripts\s001_generate_transaction_name_dynamically\\pre_cci.c

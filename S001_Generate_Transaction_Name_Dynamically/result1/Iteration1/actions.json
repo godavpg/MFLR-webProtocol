@@ -1,0 +1,36 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [],
+        "transactions": [
+            {
+                "transactionName": "S001_Generate_Transaction_Name_Dynamically_T1_sample01",
+                "rawStartTime": 1678448742334,
+                "rawEndTime": 1678448742341,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            },
+            {
+                "transactionName": "S001_Generate_Transaction_Name_Dynamically_T2_sample02",
+                "rawStartTime": 1678448742361,
+                "rawEndTime": 1678448742373,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            },
+            {
+                "transactionName": "S001_Generate_Transaction_Name_Dynamically_T3_sample03",
+                "rawStartTime": 1678448742395,
+                "rawEndTime": 1678448742406,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            },
+            {
+                "transactionName": "S001_Generate_Transaction_Name_Dynamically_T4_sample04",
+                "rawStartTime": 1678448742421,
+                "rawEndTime": 1678448742439,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0
+            }
+        ]
+    }
+]
